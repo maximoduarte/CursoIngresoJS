@@ -1,4 +1,4 @@
-/*
+/*maximo duarte
 Debemos lograr tomar Los numeros por ID ,
 transformarlos a enteros (parseInt) y Sumarlos.
 mostrar el resulto por medio de "ALERT"*/
@@ -15,7 +15,7 @@ function sumar()
 
    numUno =parseInt(numUnotexto);
    numDos =parseInt(numDostexto);
-   mensajes ="la suma es" + (numUno + numDos);
+   mensajes ="la suma es " + (numUno + numDos);
 
    alert(mensajes);
 
