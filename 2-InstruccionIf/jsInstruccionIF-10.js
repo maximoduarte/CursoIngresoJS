@@ -1,4 +1,4 @@
-//maximo duarte
+//maximo duarte.
 function mostrar()
 {
 	//Genero el número RANDOM entre 1 y 10 
@@ -18,4 +18,4 @@ function mostrar()
 	  }
 		
 
-}//FIN DE LA FUNCIÓN
+}
